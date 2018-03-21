@@ -1,2 +1,2 @@
 # Ethical-Hacking
-Programas e scripts desenvolvidos voltados a segurança da informação
+Programas e scripts criados durante alguns cursos voltados a segurança da informação
